@@ -18,10 +18,10 @@ Publishing here so have a change history and improve from suggestions from the c
 * You see a path which is quick and self-reliant
 * The team is strong
 * The type of business matches team and is appealing:
- * Hard tech - this will likely have a longer research incubation period, involve Prof.s, papers, or Ph.D.s. 
- * Dev tools - This is likely to mean APIs with extensive documentation and language support, open source plays a large role in the space.
- * B2B - longer sales cycle, marketing will tend to be more logical and show a clear ROI
- * Consumer - marketing, sales, customer service, and luck would likely play large roles.
+  * Hard tech - this will likely have a longer research incubation period, involve Prof.s, papers, or Ph.D.s. 
+  * Dev tools - This is likely to mean APIs with extensive documentation and language support, open source plays a large role in the space.
+  * B2B - longer sales cycle, marketing will tend to be more logical and show a clear ROI
+  * Consumer - marketing, sales, customer service, and luck would likely play large roles.
 
 
 
