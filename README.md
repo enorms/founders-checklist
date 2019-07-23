@@ -6,9 +6,11 @@ Publishing here so have a change history and improve from suggestions from the c
 
 ## Concept
 
-1. Find a large problem or a vision that will be motivating to founders over time and changes. What Jason Crawford calls: Founder-startup fit.
+1. Find a large problem or a vision that will be motivating to founders over time and changes.[1]
 2. Apply a technology (or other hack) for a unique way to get there. This is the scalable advantage which creates a moat and becomes harder and harder to copy or compete with.
 3. Use profit to prove the problem is valuable and allow continuance. Faster profitability with less investment increases autonomy in operating. Profit is loose in the sense that current revenue with future profit is powerful, as oppossed to a small business in which everything must generate profit right away, or a research project or hobby which can make sales in the future.
+
+[1] Founder market fit is well described by [Chris Dixon](http://cdixon.org/2011/06/20/foundermarket-fit/) and the importance of it described by [Jason Crawford](https://jasoncrawford.org/what-real-passion-looks-like).  
 
 ## Checklist
 
